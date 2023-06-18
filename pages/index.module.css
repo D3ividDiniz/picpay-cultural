@@ -469,6 +469,7 @@
   background-color: var(--color-mediumseagreen-100);
   width: 132px;
   height: 40px;
+  cursor: pointer;
   text-align: center;
   font-size: var(--font-size-base);
   color: var(--color-white);
@@ -1279,6 +1280,7 @@
   background-color: var(--color-mediumseagreen-100);
   width: 236px;
   height: 80px;
+  cursor: pointer;
 }
 .agenda {
   left: 0;
@@ -1307,7 +1309,6 @@
   width: 15px;
   height: 6.78px;
 }
-.groupIcon,
 .groupParent,
 .locaisParent {
   position: absolute;
@@ -1316,19 +1317,19 @@
   width: 82px;
   height: 24px;
 }
-.groupIcon,
 .groupParent {
   top: 29px;
   left: 769px;
   width: 225px;
 }
-.groupIcon {
+.acessibilidadeChild {
+  position: absolute;
   top: 0;
   left: 0;
   width: 42px;
   height: 42px;
 }
-.acessibilidade {
+.acessibilidade1 {
   position: absolute;
   top: 9px;
   left: 56px;
@@ -1336,12 +1337,13 @@
   text-transform: capitalize;
   font-weight: 500;
 }
-.groupContainer {
+.acessibilidade {
   position: absolute;
   top: 19px;
   left: 1062px;
   width: 173px;
   height: 42px;
+  cursor: pointer;
 }
 .header,
 .logoIcon1 {
