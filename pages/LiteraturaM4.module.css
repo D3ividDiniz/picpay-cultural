@@ -1,0 +1,350 @@
+.link {
+  position: absolute;
+  top: 42px;
+  left: 0;
+  width: 42px;
+  height: 42px;
+  overflow: hidden;
+}
+.picpaySaCnpj {
+  position: absolute;
+  top: 10px;
+  left: 98px;
+  line-height: 25.6px;
+  display: flex;
+  align-items: center;
+  width: 443px;
+  height: 20px;
+}
+.divcopyright01 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 500px;
+  height: 42px;
+}
+.avManuelBandeira {
+  position: relative;
+  line-height: 25.6px;
+  display: flex;
+  align-items: center;
+  width: 393px;
+  flex-shrink: 0;
+}
+.p {
+  position: absolute;
+  top: calc(50% - 5.6px);
+  left: 96px;
+  display: flex;
+  flex-direction: row;
+  padding: 0 var(--padding-4xl) 0.18999862670898438px 0;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divfooterCopyright,
+.listIcon {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  width: 500px;
+  height: 93.19px;
+}
+.listIcon {
+  top: 0;
+  width: 174px;
+  height: 43px;
+}
+.atendimento {
+  top: 74px;
+  left: 0;
+  width: 84.86px;
+}
+.atendimento,
+.atendimento1,
+.emLibras,
+.whatsapp {
+  position: absolute;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  height: 18px;
+}
+.whatsapp {
+  top: 98px;
+  left: 0;
+  font-size: var(--font-size-smi);
+  width: 68.11px;
+}
+.atendimento1,
+.emLibras {
+  top: 74px;
+  left: 124.66px;
+  width: 84.86px;
+}
+.emLibras {
+  top: 98px;
+  font-size: var(--font-size-smi);
+  width: 64.12px;
+}
+.divfooterAtend {
+  position: absolute;
+  top: 0;
+  left: 924px;
+  width: 190px;
+  height: 119px;
+}
+.logoIcon,
+.section {
+  position: absolute;
+  height: 50px;
+}
+.section {
+  top: calc(50% - 49.5px);
+  left: calc(50% - 557px);
+  width: 1114px;
+}
+.logoIcon {
+  top: 65px;
+  left: 88px;
+  width: 63.59px;
+}
+.rodape {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background-color: var(--preto-1e);
+  width: 1366px;
+  height: 205px;
+  overflow: hidden;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-inter);
+}
+.emSeuEnredo {
+  margin-block-start: 0;
+  margin-block-end: 20px;
+}
+.clariceComSua {
+  margin: 0;
+}
+.emSeuEnredoContainer {
+  position: absolute;
+  top: 1268px;
+  left: 88px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-poppins);
+  display: inline-block;
+  width: 1190px;
+}
+.image2Icon {
+  position: absolute;
+  top: 505px;
+  left: 0;
+  width: 1366px;
+  height: 709px;
+  object-fit: cover;
+}
+.headerMatria,
+.oPoderDa {
+  position: absolute;
+  width: 1109px;
+}
+.oPoderDa {
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.headerMatria {
+  top: 182px;
+  left: 88px;
+  height: 59px;
+  font-size: var(--font-size-29xl);
+}
+.narrandoUmaTrgicaContainer {
+  position: absolute;
+  top: 272px;
+  left: 88px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-poppins);
+  display: inline-block;
+  width: 1190px;
+}
+.literaturaM4Child {
+  position: absolute;
+  top: 956px;
+  left: 576px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro);
+  width: 1px;
+  height: 1px;
+}
+.agenda,
+.headerChild {
+  position: absolute;
+  top: 0;
+}
+.headerChild {
+  left: 1042px;
+  background-color: var(--color-mediumseagreen-100);
+  width: 236px;
+  height: 80px;
+}
+.agenda {
+  left: 0;
+  line-height: 24px;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.arrowIcon {
+  position: absolute;
+  top: 10.22px;
+  left: 80px;
+  width: 15px;
+  height: 6.78px;
+}
+.agendaParent,
+.arrowIcon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 95px;
+  height: 24px;
+}
+.arrowIcon1 {
+  top: 10.22px;
+  left: 67px;
+  width: 15px;
+  height: 6.78px;
+}
+.groupChild,
+.groupParent,
+.locaisParent {
+  position: absolute;
+  top: 0;
+  left: 143px;
+  width: 82px;
+  height: 24px;
+}
+.groupChild,
+.groupParent {
+  top: 29px;
+  left: 769px;
+  width: 225px;
+}
+.groupChild {
+  top: 0;
+  left: 0;
+  width: 42px;
+  height: 42px;
+}
+.acessibilidade {
+  position: absolute;
+  top: 9px;
+  left: 56px;
+  line-height: 24px;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.groupContainer,
+.logoIcon1 {
+  position: absolute;
+  top: 19px;
+  left: 1062px;
+  width: 173px;
+  height: 42px;
+}
+.logoIcon1 {
+  top: 24px;
+  left: 88px;
+  width: 244.8px;
+  height: 32px;
+  cursor: pointer;
+}
+.header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-500);
+  border-bottom: 1px solid var(--preto-1e);
+  box-sizing: border-box;
+  width: 1366px;
+  height: 81px;
+  overflow: hidden;
+}
+.literaturaM4Item,
+.publicado19062023 {
+  position: absolute;
+  left: 90px;
+  height: 29px;
+}
+.publicado19062023 {
+  top: 153px;
+  display: inline-block;
+  font-weight: 500;
+  color: var(--color-gray-200);
+  width: 270px;
+}
+.literaturaM4Item {
+  top: 444px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-mediumseagreen-100);
+  width: 29px;
+}
+.literaturaM4Inner,
+.ouvir {
+  position: absolute;
+  top: 452.94px;
+  left: 100.5px;
+  width: 10.5px;
+  height: 12.12px;
+}
+.ouvir {
+  top: 448px;
+  left: 132px;
+  font-weight: 500;
+  display: inline-block;
+  width: 57px;
+  height: 25px;
+}
+.tagFilmesChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-lightskyblue);
+  width: 155px;
+  height: 34px;
+}
+.literatura {
+  position: absolute;
+  top: 9px;
+  left: 16px;
+  letter-spacing: 0.12em;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 139px;
+  height: 16px;
+}
+.tagFilmes,
+.tagFilmes1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 155px;
+  height: 34px;
+}
+.tagFilmes {
+  top: 99px;
+  left: 88px;
+  color: var(--color-steelblue);
+}
+.literaturaM4 {
+  position: relative;
+  background-color: var(--color-gray-400);
+  width: 100%;
+  height: 1852px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}

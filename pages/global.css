@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,700;1,500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-montserrat: Montserrat;
+  --font-inter: Inter;
+  --font-poppins: Poppins;
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-45xl: 64px;
+  --font-size-13xl: 32px;
+  --font-size-5xl: 24px;
+  --font-size-xl: 20px;
+  --font-size-29xl: 48px;
+  --font-size-smi: 13px;
+  --font-size-sm: 14px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray-100: #fafafa;
+  --color-gray-200: #8c8c8c;
+  --color-gray-300: #272727;
+  --preto-1e: #1e1e1e;
+  --color-gray-400: #1a1b1a;
+  --color-gray-500: #171817;
+  --color-gray-600: rgba(30, 30, 30, 0.8);
+  --color-mediumseagreen-100: #00a857;
+  --color-black: #000;
+  --color-indigo: #521980;
+  --color-darkorchid: #b960ff;
+  --color-darkolivegreen: #58480d;
+  --color-goldenrod: #ffbb56;
+  --color-saddlebrown: #683a03;
+  --color-sienna: #c96f52;
+  --color-darkslategray: #0f5753;
+  --color-mediumaquamarine: #52c9b3;
+  --color-gainsboro: #d9d9d9;
+  --color-steelblue: #3a597e;
+  --color-lightskyblue: #60bbef;
+
+  /* Paddings */
+  --padding-4xl: 23px;
+  --padding-12xs-2: 0.2px;
+
+  /* border radiuses */
+  --br-7xs: 6px;
+  --br-31xl: 50px;
+
+  /* Effects */
+  --box: 0px 95px 27px rgba(0, 0, 0, 0), 0px 61px 24px rgba(0, 0, 0, 0.01),
+    0px 34px 20px rgba(0, 0, 0, 0.05), 0px 15px 15px rgba(0, 0, 0, 0.09),
+    0px 4px 8px rgba(0, 0, 0, 0.1), 0px 0px 0px rgba(0, 0, 0, 0.1);
+}
