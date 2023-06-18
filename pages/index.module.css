@@ -73,6 +73,7 @@
 }
 .oEventoDemonstra {
   margin: 0;
+  height: 76px;
 }
 .venhaConferirAsContainer {
   position: absolute;
@@ -624,6 +625,8 @@
 .quandoPensamosEm {
   position: absolute;
   left: 0;
+
+  height: 100px;
 }
 .m7 {
   top: 6881px;
@@ -1093,7 +1096,7 @@
 }
 .m2 {
   top: 2609px;
-  width: 1366px;
+  width: 100%;
   height: 545px;
   color: var(--preto-1e);
 }
@@ -1101,7 +1104,7 @@
   top: 209px;
   font-size: var(--font-size-xl);
   display: inline-block;
-  width: 685px;
+
 }
 .audiovisual3 {
   position: absolute;
@@ -1122,7 +1125,7 @@
 .image8Icon6 {
   top: 0;
   left: 793px;
-  width: 685px;
+
   object-fit: cover;
 }
 .m13 {
@@ -1153,7 +1156,7 @@
   top: 750px;
   left: -1px;
   background-color: var(--color-gray-100);
-  width: 1367px;
+  width: 100%;
   height: 1315px;
   color: var(--color-gray-600);
 }

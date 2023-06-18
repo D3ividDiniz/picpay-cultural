@@ -210,9 +210,6 @@ const HomeDesktopCadastrado: NextPage = () => {
                   diversidade de estilos, compositores e influências. Assim, até
                   mesmo nas antigas civilizações, a música era amplamente
                   utilizada em celebrações religiosas e rituais sociais.
-                  Enquanto na Grécia estava estreitamente ligada à poesia e ao
-                  teatro, a música romana era usada em cerimônias religiosas e
-                  festivais. 
                 </div>
               </div>
               <div className={styles.tagFilmes}>
@@ -465,7 +462,7 @@ const HomeDesktopCadastrado: NextPage = () => {
             </b>
             <div
               className={styles.muitoPopularPor}
-            >{`Muito popular por suas adaptações de Hollywood, é inegável que o (grande) romance Senhor dos Anéis tenha influenciado a culta internacional drasticamente desde seu lançamento, em 1954. `}</div>
+            >{`Muito popular por suas adaptações de Hollywood, é inegável que o (grande) romance Senhor dos Anéis tenha influenciado a culta internacional. `}</div>
           </div>
           <div
             className={styles.abrirMatria5}
@@ -491,9 +488,7 @@ const HomeDesktopCadastrado: NextPage = () => {
               {" "}
               Narrando uma trágica história, Clarice Lispector marcou a
               literatura brasileira com A Hora da Estrela, além de outras obras
-              primas publicadas pela autora. Lançado em 1977, é recordado até
-              hoje como um clássico nacional e já foi traduzido para outras
-              línguas, adequando-o para venda internacional.
+              primas publicadas pela autora. 
             </div>
           </div>
           <div
@@ -720,7 +715,7 @@ const HomeDesktopCadastrado: NextPage = () => {
       {isAcessibilidade1Open && (
         <PortalPopup
           overlayColor="rgba(113, 113, 113, 0.3)"
-          placement="Centered"
+          placement="Top right"
           onOutsideClick={closeAcessibilidade1}
         >
           <Acessibilidade onClose={closeAcessibilidade1} />

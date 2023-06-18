@@ -4,7 +4,9 @@
 body {
   margin: 0;
   line-height: normal;
+  width: 100vw;
 }
+
 :root {
   /* fonts */
   --font-montserrat: Montserrat;
